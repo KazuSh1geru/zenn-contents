@@ -4,7 +4,8 @@
   "description": "Zennに投稿します.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "new": "npx zenn new:article",
+    "preview": "npx zenn preview"
   },
   "keywords": [],
   "author": "",
