@@ -2,7 +2,7 @@
 title: "社内DX推進におけるツール開発とUX改善のトレードオフ"
 emoji: "💭"
 type: "tech" # tech: 技術記事 / idea: アイデア
-topics: []
+topics: ["dx", "ux", "dify", "n8n"]
 published: false
 ---
 
