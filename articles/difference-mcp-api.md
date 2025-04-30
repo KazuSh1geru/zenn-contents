@@ -3,7 +3,7 @@ title: "MCPとAPIの違いを説明できますか？"
 emoji: "⛳"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["api", "llm", "mcp"]
-published: false
+published: true
 ---
 
 # はじめに
