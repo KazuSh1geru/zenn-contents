@@ -2,8 +2,8 @@
 title: "cline ガイドラインを精読"
 emoji: "🦁"
 type: "tech"
-topics: []
-published: false
+topics: ["cline", "llm", "ai"]
+published: true
 ---
 
 # cline ガイドラインを精読
